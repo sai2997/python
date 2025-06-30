@@ -1,5 +1,5 @@
-print("Name: Karim S Mulla")
-print("USN: 1AY24AI052")
+print("Name:aA sai ganesh")
+print("USN: 1AY24AI001")
 print("Section: M")
 chess_pieces = {
     'K': 'King',
